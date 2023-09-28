@@ -83,6 +83,6 @@ Contributions to this project are welcome! If you have any suggestions, bug repo
 
 ## Contact
 
-If you have any questions or need further assistance, you can contact the developer at [your.email@example.com](mailto:vivekyadav6838@gamil.com).
+If you have any questions or need further assistance, you can contact the developer at (mailto:vivekyadav6838@gamil.com).
 
 Thank you for using the Contact Manager app! We hope it helps you manage your important contacts efficiently.
